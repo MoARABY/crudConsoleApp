@@ -10,7 +10,7 @@ This is a simple CRUD (Create, Read, Update, Delete) console application written
 - Display the list of friends with their details.
 
 ## Requirements
-- .NET Core SDK (version x.x.x or higher)
+- .NET Core SDK (version 6.0 or higher)
 
 ## Installation
 1. Clone the repository to your local machine:
